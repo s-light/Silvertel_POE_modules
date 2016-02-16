@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Silvertel_Ag5300
+D Silvertel Ag5300 POE+ 30W 12VDC Isolated PD Module
+K Silvertel, Ag5300, POE+, POEp, 30W, 24W, 12VDC, Isolated, PD, Powered-Device, Ethernet, IEEE802.3af, IEEE802.3at
+F http://www.silvertel.com/products/poe-power-over-ethernet/26-poe-modules/170-ag5300.html
+$ENDCMP
+#
+#End Doc Library
